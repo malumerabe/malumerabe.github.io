@@ -1,0 +1,33 @@
+body{
+font-family: Georgia, "TimesNewRoman", Times, serif;
+font-size:1vw;
+color: #000;
+background: #221d1f;
+padding-top:0px;
+margin:0px;
+}
+
+a:link, a:visited, a:active {color: #221d1f; text-decoration: underline;}
+a:hover {color: #000; text-decoration: underline;}
+a {color: #221d1f; text-decoration: underline;}
+
+#maintable{background-color:#f6f2e4; padding-left:10px; padding-right:10px; width:890px; height:240px;}
+
+#maincontent{
+padding-top: 0px;
+width:690px;
+vertical-align:top;
+text-align:justify;
+}
+
+p {text-align:center}
+
+h1{font-size: 2vw; border-bottom: 2px solid #221d1f; background: none; padding-top:0px; color: #221d1f; text-align: center}
+
+ul, li {padding: 0px; margin-left: 8px; list-style-type: square;} 
+
+#credits{line-height: 14px;font-size: 10px; text-align: center;}
+
+#header{background: #f6f2e4 url(images/banner.png); width:890px; height:400px; background-position:center; background-repeat:no-repeat; border:0px; padding:0px; margin:0px;}
+
+img {border: 0px; padding: 0px;}
